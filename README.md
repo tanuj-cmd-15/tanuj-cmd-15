@@ -1,25 +1,75 @@
-<h2> Hey there! I'm Tushar. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tanuj-cmd-15&style=for-the-badge"> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tanuj-cmd-15?style=for-the-badge&logo=github&color=ffca28">
+</p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h1 align="center">Hi 👋, I'm Tushar Pawar</h1>
+<h3 align="center">A passionate Java Developer & ML Engineer from Pune 💻</h3>
 
-- 🔭 &nbsp; I’m currently learning Java Fullstack Development
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
-- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+<p align="center">
+I am currently pursuing a Master of Technology in Computer Science & Information Technology at Savitribai Phule Pune University[cite: 1, 2]. I hold a Bachelor of Engineering in Information Technology from the same university[cite: 1, 2]. Recently, I worked as a Java Full Stack Developer Intern at EazyByts Infotech, where I developed full-stack web applications using Java, Spring Boot, Thymeleaf, and MySQL[cite: 2].
+</p>
 
-<h3>🛠 Tech Stack</h3>
+<h2 align="center">🚀 Featured Projects</h2>
 
-- 💻 &nbsp; Java | Python 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Visual Studio code | Eclipse | Intellij Idea | Git
-- 🖥 &nbsp; Adobe Xd |  Figma 
+* **Audio Deepfake Detection & Speech Research (SwarParikshak):** Developed a unique CNN-BiLSTM-Attention neural pipeline to parallelize temporal dependency tracking and spatial artifact extraction[cite: 1]. Benchmarked generated TTS voice datasets against commercial ASR and speech models like Whisper and Google STT[cite: 1].
+* **OCR Document Intelligence System:** Designed robust evaluation configurations with multiple open-source and native vision-text processing pipelines using Python, FastAPI, Tesseract, and OpenCV[cite: 1]. Programmed deep level morphological transforms to remove OCR degradation patterns[cite: 1].
+* **AI Interview Platform:** Developed an AI-driven recruitment platform with LLM-based NLP for semantic answer scoring, emotion detection, and voice-to-text transcription[cite: 1, 2].
+* **DOT Digital Certificate Platform:** Developed a production-ready certificate management application for the Department of Technology automating the full credential generation lifecycle via Next.js Serverless API Routes and MongoDB Atlas[cite: 2].
+* **CRM & EMS Systems:** Developed complete platforms to manage contacts, tasks, and employees using MVC architecture, REST APIs, and optimized database schemas[cite: 2].
 
-<br>
+<h2 align="center">💻 Tech Stack:</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</div>
 
-</br>
+<h2 align="center">🌐 Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/tushar-pawar-0524a7213" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pawartushar8485@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/pawartushar8485@gmail.com-white?style=for-the-badge&logo=gmail" /></a>
+<a href="https://github.com/tanuj-cmd-15" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h2 align="center">⚡ Stats ⚡</h2>
+<p align=center >
+  <div align=center>
+    <a href="https://git.io/streak-stats">
+      <img align="center" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=tanuj-cmd-15&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
+    </a>
+    <br><br>
+    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=tanuj-cmd-15&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
+    </a>
+  </div>
+</p>
+
+<p align="center">
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj-cmd-15&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true" alt="Activity Graph" />
+</a>
+</p>
+
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-trophies?login=tanuj-cmd-15" alt="Trophies" />
+</p>
