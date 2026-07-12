@@ -7,16 +7,9 @@
 <h3 align="center">A passionate Java Developer & ML Engineer from Pune 💻</h3>
 
 <p align="center">
-I am currently pursuing a Master of Technology in Computer Science & Information Technology at Savitribai Phule Pune University[cite: 1, 2]. I hold a Bachelor of Engineering in Information Technology from the same university[cite: 1, 2]. Recently, I worked as a Java Full Stack Developer Intern at EazyByts Infotech, where I developed full-stack web applications using Java, Spring Boot, Thymeleaf, and MySQL[cite: 2].
+I am currently pursuing a Master of Technology in Computer Science & Information Technology at Savitribai Phule Pune University. I hold a Bachelor of Engineering in Information Technology from the same university. Recently, I worked as a Java Full Stack Developer Intern at EazyByts Infotech, where I developed full-stack web applications using Java, Spring Boot, Thymeleaf, and MySQL.
 </p>
 
-<h2 align="center">🚀 Featured Projects</h2>
-
-* **Audio Deepfake Detection & Speech Research (SwarParikshak):** Developed a unique CNN-BiLSTM-Attention neural pipeline to parallelize temporal dependency tracking and spatial artifact extraction[cite: 1]. Benchmarked generated TTS voice datasets against commercial ASR and speech models like Whisper and Google STT[cite: 1].
-* **OCR Document Intelligence System:** Designed robust evaluation configurations with multiple open-source and native vision-text processing pipelines using Python, FastAPI, Tesseract, and OpenCV[cite: 1]. Programmed deep level morphological transforms to remove OCR degradation patterns[cite: 1].
-* **AI Interview Platform:** Developed an AI-driven recruitment platform with LLM-based NLP for semantic answer scoring, emotion detection, and voice-to-text transcription[cite: 1, 2].
-* **DOT Digital Certificate Platform:** Developed a production-ready certificate management application for the Department of Technology automating the full credential generation lifecycle via Next.js Serverless API Routes and MongoDB Atlas[cite: 2].
-* **CRM & EMS Systems:** Developed complete platforms to manage contacts, tasks, and employees using MVC architecture, REST APIs, and optimized database schemas[cite: 2].
 
 <h2 align="center">💻 Tech Stack:</h2>
 <div align="center">
@@ -43,6 +36,15 @@ I am currently pursuing a Master of Technology in Computer Science & Information
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 </div>
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+* **Audio Deepfake Detection & Speech Research (SwarParikshak):** Developed a unique CNN-BiLSTM-Attention neural pipeline to parallelize temporal dependency tracking and spatial artifact extraction. Benchmarked generated TTS voice datasets against commercial ASR and speech models like Whisper and Google STT.
+* **OCR Document Intelligence System:** Designed robust evaluation configurations with multiple open-source and native vision-text processing pipelines using Python, FastAPI, Tesseract, and OpenCV. Programmed deep level morphological transforms to remove OCR degradation patterns.
+* **AI Interview Platform:** Developed an AI-driven recruitment platform with LLM-based NLP for semantic answer scoring, emotion detection, and voice-to-text transcription.
+* **DOT Digital Certificate Platform:** Developed a production-ready certificate management application for the Department of Technology automating the full credential generation lifecycle via Next.js Serverless API Routes and MongoDB Atlas.
+* **CRM & EMS Systems:** Developed complete platforms to manage contacts, tasks, and employees using MVC architecture, REST APIs, and optimized database schemas.
+
 
 <h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
