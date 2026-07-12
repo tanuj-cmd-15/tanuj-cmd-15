@@ -73,22 +73,24 @@ I am currently pursuing a Master of Technology in Computer Science & Information
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center >
   <div align=center>
-    <a href="https://git.io/streak-stats">
+    <a href="https://github.com/tanuj-cmd-15">
       <img align="center" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=tanuj-cmd-15&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
     </a>
     <br><br>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <a href="https://github.com/tanuj-cmd-15" title="Go to Source">
       <img align="center" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=tanuj-cmd-15&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
 </p>
 
 <p align="center">
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+<a href="https://github.com/tanuj-cmd-15">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj-cmd-15&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true" alt="Activity Graph" />
 </a>
 </p>
 
 <p align="center">
-  <img src="https://stats.dooboo.io/api/github-trophies?login=tanuj-cmd-15" alt="Trophies" />
+  <a href="https://github.com/tanuj-cmd-15">
+    <img src="https://stats.dooboo.io/api/github-trophies?login=tanuj-cmd-15" alt="Trophies" />
+  </a>
 </p>
