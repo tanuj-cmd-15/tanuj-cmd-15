@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tanuj-cmd-15&style=for-the-badge"> 
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tanuj-cmd-15?style=for-the-badge&logo=github&color=ffca28">
+  <img src="https://komarev.com/ghpvc/?username=tusharpawar1217&style=for-the-badge"> 
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/tusharpawar1217?style=for-the-badge&logo=github&color=ffca28">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tushar Pawar</h1>
@@ -67,30 +67,30 @@ I am currently pursuing a Master of Technology in Computer Science & Information
 <p align="center">
 <a href="https://linkedin.com/in/tushar-pawar-0524a7213" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:pawartushar8485@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/pawartushar8485@gmail.com-white?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/tanuj-cmd-15" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/tusharpawar1217" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <p align=center >
   <div align=center>
-    <a href="https://github.com/tanuj-cmd-15">
-      <img align="center" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=tanuj-cmd-15&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
+    <a href="https://github.com/tusharpawar1217">
+      <img align="center" width=390 src="https://github-readme-streak-stats-amber-two.vercel.app?user=tusharpawar1217&count_private=true&theme=react&dates=EBEBEB6D&&border_radius=25&exclude_days=Sun%2CSat&border=AC7BF9&fire=78ECFD&ring=AC7BF9&currStreakLabel=78ECFD&currStreakNum=E8E8E8&background=26272D&stroke=78ECFD&excludeDaysLabel=26272D&include_all_commits=true" alt="GitHub Streak" />
     </a>
     <br><br>
-    <a href="https://github.com/tanuj-cmd-15" title="Go to Source">
-      <img align="center" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=tanuj-cmd-15&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
+    <a href="https://github.com/tusharpawar1217" title="Go to Source">
+      <img align="center" width=390 src="https://github-readme-stats-fernando-lopezs-projects-3f43787d.vercel.app/api?username=tusharpawar1217&count_private=true&show_icons=true&theme=react&border_color=60B2BF&hide_border=false&border_radius=25&title_color=78ECFD&icon_color=AC7BF9&bg_color=26272D&include_all_commits=true" />
     </a>
   </div>
 </p>
 
 <p align="center">
-<a href="https://github.com/tanuj-cmd-15">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanuj-cmd-15&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true" alt="Activity Graph" />
+<a href="https://github.com/tusharpawar1217">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tusharpawar1217&bg_color=26272D&title_color=FFFFFF&color=77EBFC&line=77EBFC&point=AE7BFA&area_color=FAACFF&area=true&radius=16&hide_border=true" alt="Activity Graph" />
 </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tanuj-cmd-15">
-    <img src="https://stats.dooboo.io/api/github-trophies?login=tanuj-cmd-15" alt="Trophies" />
+  <a href="https://github.com/tusharpawar1217">
+    <img src="https://stats.dooboo.io/api/github-trophies?login=tusharpawar1217" alt="Trophies" />
   </a>
 </p>
